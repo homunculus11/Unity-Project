@@ -1,0 +1,20 @@
+MAY
+***5th May***
+**·** Set up my Unity 3D World
+**·** Installed Blender
+**·** Installed Obsidian
+**·** Set up a Github Directory for the Unity Project
+**·** Found an online book that guides me through the basics of Game Development and Unity
+
+***6th May***
+**·** Fixed the 3D GameObject Error (updated my Windows)
+**·** Created my first GameObjects
+**·** Installed Github Desktop
+**·** Installed Git
+**·** Installed Git LFS
+
+***7th May***
+**·** Checked out the Transform Propriety of GameObjects (Position, Rotation, Scale)
+
+***8th May***
+**·** Finally set up a Unity 3D World with Github Desktop
